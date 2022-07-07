@@ -127,6 +127,6 @@ Some mostly used HTTP Status Code:
 
 Also Check:
 - [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-- [HTTP response status codes](hhttps://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 ##### *Source: Internet*
